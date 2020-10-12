@@ -9,7 +9,10 @@ The original exploit was not very developer friendly so I decided to write my ow
 ### Reproduce
 - Setup Gym Management 1.0 
 - Install python3
-- run poc.py
+- run poc.py:
+```
+python3 poc.py
+```
 
 
 
