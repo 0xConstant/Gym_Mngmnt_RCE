@@ -4,7 +4,7 @@ There is an unauthenticated file upload vulnerability in Gym Management 1.0 that
 
 The original exploit can be found [here](https://www.exploit-db.com/exploits/48506).
 
-This exploit is just more readable than the original one.
+The original exploit was not very developer friendly so I decided to write my own version, my version does the same thing but here you don't need png magic bytes and a lot of other variables.
 
 ### Reproduce
 - Setup Gym Management 1.0 
